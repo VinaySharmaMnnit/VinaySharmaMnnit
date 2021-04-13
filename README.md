@@ -19,7 +19,7 @@
 
 
 ### Contact me here     :point_down:
-&nbsp; &nbsp; <a href="https://www.linkedin.com/in/Vinay-Sharma-1848ba180/">
+&nbsp; &nbsp; <a href="https://www.linkedin.com/in/vinay-sharma-11a35a179/">
     <img align="center" width="26px" src="https://github.com/VinaySharmaMnnit/VinaySharmaMnnit/blob/main/assets/linkedin.jpeg" />
  </a>  &nbsp; &nbsp; 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vs2021999@gmail.com">
