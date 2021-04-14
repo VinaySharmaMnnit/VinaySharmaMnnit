@@ -13,9 +13,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=VinaySharmaMnnit&show_icons=true&theme=cobalt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VinaySharmaMnnit&show_icons=true&theme=cobalt&custom_title=My GitHub Stats" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=VinaySharmaMnnit&layout=compact&langs_count=8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinaySharmaMnnit&layout=compact&langs_count=10&theme=cobalt" />
-</a>
+
 
 
 ### Contact me here     :point_down:
