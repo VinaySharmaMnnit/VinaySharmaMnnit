@@ -2,7 +2,7 @@
 
 <br>
 
-- I am a Pre Final Year student at **MNNIT Allahabad** hustling to become Software Developer :computer:
+- I am a Final Year student at **MNNIT Allahabad** hustling to become Software Developer :computer:
 <br>
 
 - I am currently working on **Web Development** 
