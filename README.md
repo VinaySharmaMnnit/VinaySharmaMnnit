@@ -2,12 +2,8 @@
 
 <br>
 
-- I am a Final Year student at **MNNIT Allahabad** hustling to become Software Developer :computer:
+- I am a Software Developer, just trying to become better version of myself :computer:
 <br>
-
-- I am currently working on **Web Development** 
-<br>
-
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=VinaySharmaMnnit&show_icons=true&theme=cobalt">
